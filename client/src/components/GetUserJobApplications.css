@@ -1,0 +1,28 @@
+.user-job-applications-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .user-job-applications-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .user-job-applications-container button {
+    background-color: #008000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .user-job-applications-container ul {
+    margin-top: 20px;
+    padding-left: 0;
+  }
+  
+  .user-job-applications-container li {
+    margin-bottom: 10px;
+  }

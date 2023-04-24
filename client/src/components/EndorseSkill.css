@@ -1,0 +1,32 @@
+.endorse-skill-container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .endorse-skill-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .endorse-skill-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .endorse-skill-container input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #ffffff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .endorse-skill-container button[type="submit"] {
+    background-color: #008000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
